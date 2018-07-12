@@ -1,0 +1,26 @@
+Datum izpita: 21. 8. 2018 (še 42 dni)
+
+// Snov: ///
+
+// teoretični del //
+
+Verjetnost - 99 strani
+Statistika - 93 strani
+
+-> 6 strani na dan
+
+// praktični del //
+
+15 ciklov vaj
+-> 1 cikel/2 dni
+
+// URNIK DELA //
+
+
+    // 11. 7. 2018 //
+        TEORETIČNI DEL
+            - Bernoullijevo zaporedje neodvisnih poskusov, vzorčenje (pri vsakem 3 strani)
+            - Vnos snovi v ANKI
+            - Obnovitev (ANKI)
+        PRAKTIČNI DEL
+            - delo na 1. in 2. ciklu vaj
