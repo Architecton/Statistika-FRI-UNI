@@ -16,19 +16,15 @@ Statistika - 93 strani
 
 // URNIK DELA //
 
+22. 7. 2018
+    reši vse naloge iz 05
+23. 7. 2018
+    reši vse naloge iz 03 in 04
+    reši 10 nalog iz 02
+    // teoretični del //
+    Zaključi prvi del (statistika)
 
-    // 11. 7. 2018 //
-        TEORETIČNI DEL
-            - Bernoullijevo zaporedje neodvisnih poskusov, vzorčenje (pri vsakem 3 strani)
-            - Vnos snovi v ANKI
-            - Obnovitev (ANKI)
-        PRAKTIČNI DEL
-            - delo na 1. in 2. ciklu vaj
+24. 7. 2018
+    // teoretični del //
+    Označi ključne točke pri prvem delu (pdf mark)
 
-¸   // 13. 7. 2018 //
-        TEORETIČNI DEL
-            - strani 54-58 in 134 - 138
-            - pridobi si prosojnice s predavanj
-        PRAKTIČNI DEL
-            - delo na 1., 2. in 3. ciklu vaj
-            - kvizko 00, 01
