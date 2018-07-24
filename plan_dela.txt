@@ -17,14 +17,25 @@ Statistika - 93 strani
 // URNIK DELA //
 
 22. 7. 2018
-    reši vse naloge iz 05
+    Reši vse naloge iz 05.
 23. 7. 2018
-    reši vse naloge iz 03 in 04
-    reši 10 nalog iz 02
+    Reši vse naloge iz 03 in 04.
+    Reši 10 nalog iz 02.
     // teoretični del //
-    Zaključi prvi del (statistika)
+    Zaključi prvi del (statistika).
 
 24. 7. 2018
+    // praktični del //
+    Reši vse naloge iz 06 in 04. (Ne pozabi - do 1. 8. 2018 reši vse kupčke do vključno 9.!).
+
     // teoretični del //
-    Označi ključne točke pri prvem delu (pdf mark)
+    Limitni izreki + CLI.
+    Označi ključne točke pri prvem delu (pdf mark).
+
+25. 7. 2018
+    // praktični del //
+    Reši vse naloge iz 04
+    // teoretični del //
+    Končaj prvi del + PDF mark
+    preglej izpiske od 16. strani naprej
 
