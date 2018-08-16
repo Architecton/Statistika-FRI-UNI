@@ -34,8 +34,30 @@ Statistika - 93 strani
 
 25. 7. 2018
     // praktični del //
-    Reši vse naloge iz 04
+    Reši vse naloge iz 04.
     // teoretični del //
-    Končaj prvi del + PDF mark
-    preglej izpiske od 16. strani naprej
+    Končaj prvi del + PDF mark.
+    preglej izpiske od 16. strani naprej.
 
+26. 7. 2018
+    // praktični del //
+    Reši vse naloge iz 03.
+    // Teoretični del //
+    Začni delo na verjetnosti.
+
+27. 7. 2018
+    // praktični del //
+    Reši vse naloge iz 07 in 08
+
+28. 7. 2018
+    // praktični del //
+    Reši vse naloge iz 07 in 08 ter 10 nalog iz vzorčne ter opisne statistike.
+    
+    // teoretični del //
+    Obnovitev + intervali zaupanja + limitni izreki do konca + porazdelitev razlik in vsot vzorčnih povprečij
+    Delaj skupaj z reševanjem nalog na Kvizku.
+
+29. 7. 2018
+    // praktični in teoretični del //
+    Predelaj Two-sample inference for the difference between groups ter Confidence Intervals na Khan Academy
+    Predelaj videe in vnesi v ANKI
